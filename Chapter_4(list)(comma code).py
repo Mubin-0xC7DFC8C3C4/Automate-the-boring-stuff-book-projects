@@ -13,5 +13,5 @@ def list_to_string(items):
 
     return result
 
-input_from_user = input("Enter some items which are seperated by a space or comma: ").split(",")
+input_from_user = input("Enter some items: ").replace("," , " ").split()
 print(list_to_string(input_from_user))
