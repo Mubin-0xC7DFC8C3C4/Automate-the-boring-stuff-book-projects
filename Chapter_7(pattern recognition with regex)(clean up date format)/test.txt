@@ -1,0 +1,128 @@
+# Here i copy the text from this URL: https://docs.oracle.com/cd/E41183_01/DR/Date_Format_Types.html
+
+You are here: Function Reference > Date Functions > Date Formats > Date Format Types
+Date Format Types
+Month abbreviations consist of the first three characters of the month’s name. Months with four-character names, such as June, are not abbreviated.
+
+Format
+Date order
+Description
+1
+MM/DD/YY
+Month-Day-Year with leading zeros (02/17/2009)
+2
+DD/MM/YY
+Day-Month-Year with leading zeros (17/02/2009)
+3
+YY/MM/DD
+Year-Month-Day with leading zeros (2009/02/17)
+4
+Month D, Yr
+Month name-Day-Year with no leading zeros
+(February 17, 2009)
+5
+M/D/YY
+Month-Day-Year with no leading zeros (2/17/2009)
+6
+D/M/YY
+Day-Month-Year with no leading zeros (17/2/2009)
+7
+YY/M/D
+Year-Month-Day with no leading zeros (2009/2/17)
+8
+bM/bD/YY
+Month-Day-Year with spaces instead of leading zeros
+( 2/17/2009)
+9
+bD/bM/YY
+Day-Month-Year with spaces instead of leading zeros
+(17/ 2/2009)
+A
+YY/bM/bD
+Year-Month-Day with spaces instead of leading zeros (2009/ 2/17)
+B
+MMDDYY
+Month-Day-Year with no separators (02172009)
+C
+DDMMYY
+Day-Month-Year with no separators (17022009)
+D
+YYMMDD
+Year-Month-Day with no separators (20090217)
+E
+MonDDYY
+Month abbreviation-Day-Year with leading zeros (Feb172009)
+F
+DDMonYY
+Day-Month abbreviation-Year with leading zeros (17Feb2009)
+G
+YYMonDD
+Year-Month abbreviation-Day with leading zeros (2009Feb17)
+H
+day/YY
+Day of year (counting consecutively from January 1)-Year (48/2009)
+I
+YY/day
+Year-Day of Year (counting consecutively from January 1—often called the Julian date format) (2009/48)
+J
+D Month, Yr
+Day-Month name-Year (17 February, 2009)
+K
+Yr, Month D
+Year-Month name-Day (2009, February 17)
+L *
+Mon-DD-YYYY
+Month abbreviation, Day with leading zeros, Year
+(Feb 17, 2009)
+M *
+DD-Mon-YYYY
+Day with leading zeros, Month abbreviation, Year
+17 Feb, 2009.
+N
+YYYYY-Mon-DD
+Year, Month abbreviation, Day with leading zeros
+(2009, Feb 17)
+This format defaults to a two-digit year, but can be overridden to have four digits.
+O
+Mon DD, YYYY
+Month abbreviation, Day with leading zeros, Year
+(Feb 17, 2014)
+P
+DD Mon, YYYY
+Day with leading zeros, Month abbreviation, Year
+(17 Feb, 2014)
+Q
+YYYY, Mon DD
+Year, Month abbreviation, Day with leading zeros
+(2014, Feb 17)
+X
+(hexadecimal)
+Eight-character hexadecimal representation of the system date. Valid dates range from 12/31/1969 to 01/18/2038. Valid dates may differ depending on the type of machine (PC or host) and the type of CPU chip.
+* This format defaults to a two-digit year, but can be overridden to have four digits.
+Here are some examples, using December 18, 2010:
+Example
+Description
+Result
+1
+Format type 1
+12/18/10
+1-
+Format type 1 with dashes (-) as the separator characters
+12-18-10
+1/2
+Format type 1 with backslashes (/) as the separator characters and a two-digit year
+12/18/10
+14
+Format type 1 with a four-digit year (no separator specified but the format type includes separators so the default separator (/) will be used
+12/18/10
+B4
+Format type B with a four-digit year (no separator specified and the format type does not include separators, so none will be included)
+12182010
+4@CAD
+Format type 4, with French Canadian as the locality. If you use "4@CAD" in a DAL function, the system returns the French Canadian translation of date format type 4 (Month D, YYYY with month spelled out). If you specify a locale, it must be the last component of the date format
+décembre 18, 2010
+© Copyright 2014, Oracle and/or its affiliates. All rights reserved. Legal notices.
+Open table of contents
+Open table of contents
+Open table of contents
+Cookie PreferencesAd Choices
