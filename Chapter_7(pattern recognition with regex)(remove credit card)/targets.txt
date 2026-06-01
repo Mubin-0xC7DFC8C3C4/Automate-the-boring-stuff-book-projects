@@ -1,0 +1,2 @@
+# Testing sources for credit card regex
+https://docs.stripe.com/testing
