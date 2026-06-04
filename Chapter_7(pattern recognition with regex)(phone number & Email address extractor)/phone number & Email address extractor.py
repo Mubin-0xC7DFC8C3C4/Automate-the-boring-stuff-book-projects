@@ -1,5 +1,5 @@
 #! python 3.13.5
-import pyperclip, re
+import re
 
 phoneregex = re.compile(r'''(
     (\+\d{1,3})?                   # Optional country code
@@ -19,7 +19,8 @@ emailregex = re.compile(r'''(
     (\.[a-zA-Z]{2,4})              # dot something
     )''',re.VERBOSE)
 
-text = str(pyperclip.paste())
+content = open('C:\\Users\\HTC\\python_code\\Automate the boring stuff book project\\Chapter_7(pattern recognition with regex)(phone number & Email address extractor)\\DATASET.csv')
+text = content.read()
 matches = []
 
 for groups in phoneregex.findall(text):
@@ -29,7 +30,6 @@ for groups in emailregex.findall(text):
     matches.append(groups[0])
 
 if len(matches) > 0:
-    pyperclip.copy('\n'.join(matches))
     print('Copied to clipboard:')
     print('\n'.join(matches))
 else:
