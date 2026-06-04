@@ -1,14 +1,13 @@
 #! python 3.13.5
 
-import pyperclip, re
+import re
 
 urlRegex = re.compile(r'https?://[\w.-]+(?:/[^\s]*)?', re.IGNORECASE)
-text = str(pyperclip.paste())
-
+with open(r'C:\Users\HTC\python_code\Automate the boring stuff book project\Chapter_7(pattern recognition with regex)(finding url)\URL dataset.csv', encoding='utf-8') as content:
+    text = content.read()
 matches = urlRegex.findall(text)
 
 if len(matches) > 0:
-    pyperclip.copy('\n'.join(matches)) 
     print("Copied to clipboard:")
     print('\n'.join(matches))
 else:
