@@ -8,303 +8,303 @@ Section:
 
                     State Capitals Quiz (Form 13)
 
-1. What is the capital of Wisconsin?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+1. What is the capital of Kentucky?
+    a. Frankfort
+    b. Concord
+    c. Pierre
+    d. Hartford
 
-2. What is the capital of Washington?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+2. What is the capital of Montana?
+    a. Harrisburg
+    b. Helena
+    c. Austin
+    d. Raleigh
 
-3. What is the capital of New York?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+3. What is the capital of South Carolina?
+    a. Richmond
+    b. Montpelier
+    c. Columbia
+    d. Concord
 
-4. What is the capital of Maryland?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+4. What is the capital of Louisiana?
+    a. Salem
+    b. Saint Paul
+    c. Baton Rouge
+    d. Columbia
 
-5. What is the capital of Tennessee?
-    a. Lansing
+5. What is the capital of Utah?
+    a. Salt Lake City
     b. Frankfort
-    c. Salt Lake City
-    d. Madison
+    c. Santa Fe
+    d. Springfield
 
-6. What is the capital of Vermont?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+6. What is the capital of Maryland?
+    a. Boise
+    b. Madison
+    c. Annapolis
+    d. Columbia
 
-7. What is the capital of Hawaii?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+7. What is the capital of Ohio?
+    a. Columbus
+    b. Austin
+    c. Augusta
+    d. Nashville
 
-8. What is the capital of Missouri?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+8. What is the capital of Washington?
+    a. Baton Rouge
+    b. Madison
+    c. Olympia
+    d. Montgomery
 
-9. What is the capital of Minnesota?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+9. What is the capital of Mississippi?
+    a. Topeka
+    b. Baton Rouge
+    c. Annapolis
+    d. Jackson
 
-10. What is the capital of South Dakota?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+10. What is the capital of Arkansas?
+    a. Little Rock
+    b. Indianapolis
+    c. Boise
+    d. Jefferson City
 
-11. What is the capital of Alaska?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+11. What is the capital of Kansas?
+    a. Jackson
+    b. Austin
+    c. Sacramento
+    d. Topeka
 
-12. What is the capital of Kansas?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+12. What is the capital of Alaska?
+    a. Juneau
+    b. Charleston
+    c. Denver
+    d. Atlanta
 
-13. What is the capital of Delaware?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+13. What is the capital of California?
+    a. Sacramento
+    b. Des Moines
+    c. Raleigh
+    d. Saint Paul
 
-14. What is the capital of North Carolina?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+14. What is the capital of Minnesota?
+    a. Saint Paul
+    b. Montgomery
+    c. Harrisburg
+    d. Montpelier
 
-15. What is the capital of Illinois?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+15. What is the capital of New Hampshire?
+    a. Annapolis
+    b. Concord
+    c. Honolulu
+    d. Little Rock
 
 16. What is the capital of Texas?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+    a. Pierre
+    b. Austin
+    c. Springfield
+    d. Charleston
 
-17. What is the capital of Alabama?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+17. What is the capital of Idaho?
+    a. Columbus
+    b. Boise
+    c. Helena
+    d. Saint Paul
 
-18. What is the capital of Rhode Island?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+18. What is the capital of Massachusetts?
+    a. Boston
+    b. Baton Rouge
+    c. Albany
+    d. Carson City
 
-19. What is the capital of Wyoming?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+19. What is the capital of New Jersey?
+    a. Topeka
+    b. Salem
+    c. Annapolis
+    d. Trenton
 
-20. What is the capital of Mississippi?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+20. What is the capital of Illinois?
+    a. Albany
+    b. Hartford
+    c. Springfield
+    d. Dover
 
-21. What is the capital of California?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+21. What is the capital of Hawaii?
+    a. Phoenix
+    b. Montpelier
+    c. Madison
+    d. Honolulu
 
-22. What is the capital of Oregon?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+22. What is the capital of Delaware?
+    a. Concord
+    b. Albany
+    c. Dover
+    d. Montpelier
 
-23. What is the capital of Georgia?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+23. What is the capital of Alabama?
+    a. Sacramento
+    b. Augusta
+    c. Madison
+    d. Montgomery
 
-24. What is the capital of Nevada?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+24. What is the capital of Georgia?
+    a. Salem
+    b. Topeka
+    c. Atlanta
+    d. Columbus
 
-25. What is the capital of Oklahoma?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+25. What is the capital of Wyoming?
+    a. Jackson
+    b. Charleston
+    c. Albany
+    d. Cheyenne
 
-26. What is the capital of Montana?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+26. What is the capital of Oregon?
+    a. Providence
+    b. Richmond
+    c. Montpelier
+    d. Salem
 
-27. What is the capital of Florida?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+27. What is the capital of Oklahoma?
+    a. Montpelier
+    b. Oklahoma City
+    c. Montgomery
+    d. Jefferson City
 
-28. What is the capital of Nebraska?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+28. What is the capital of Florida?
+    a. Des Moines
+    b. Austin
+    c. Tallahassee
+    d. Harrisburg
 
-29. What is the capital of Arkansas?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+29. What is the capital of Rhode Island?
+    a. Olympia
+    b. Indianapolis
+    c. Providence
+    d. Phoenix
 
-30. What is the capital of Virginia?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+30. What is the capital of North Dakota?
+    a. Des Moines
+    b. Raleigh
+    c. Bismarck
+    d. Montgomery
 
-31. What is the capital of Arizona?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+31. What is the capital of New Mexico?
+    a. Honolulu
+    b. Des Moines
+    c. Salem
+    d. Santa Fe
 
-32. What is the capital of Maine?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+32. What is the capital of Connecticut?
+    a. Hartford
+    b. Nashville
+    c. Harrisburg
+    d. Denver
 
-33. What is the capital of Ohio?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+33. What is the capital of Missouri?
+    a. Jefferson City
+    b. Albany
+    c. Denver
+    d. Frankfort
 
-34. What is the capital of Massachusetts?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+34. What is the capital of Nebraska?
+    a. Lincoln
+    b. Honolulu
+    c. Lansing
+    d. Helena
 
-35. What is the capital of Louisiana?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+35. What is the capital of Arizona?
+    a. Phoenix
+    b. Atlanta
+    c. Helena
+    d. Montpelier
 
-36. What is the capital of Pennsylvania?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+36. What is the capital of Colorado?
+    a. Carson City
+    b. Cheyenne
+    c. Denver
+    d. Baton Rouge
 
-37. What is the capital of West Virginia?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+37. What is the capital of Nevada?
+    a. Santa Fe
+    b. Olympia
+    c. Richmond
+    d. Carson City
 
-38. What is the capital of Idaho?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+38. What is the capital of Indiana?
+    a. Indianapolis
+    b. Annapolis
+    c. Madison
+    d. Austin
 
-39. What is the capital of Indiana?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+39. What is the capital of Iowa?
+    a. Carson City
+    b. Harrisburg
+    c. Olympia
+    d. Des Moines
 
-40. What is the capital of Connecticut?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+40. What is the capital of South Dakota?
+    a. Honolulu
+    b. Providence
+    c. Des Moines
+    d. Pierre
 
-41. What is the capital of New Hampshire?
-    a. Lansing
-    b. Frankfort
+41. What is the capital of New York?
+    a. Albany
+    b. Phoenix
     c. Salt Lake City
-    d. Madison
+    d. Honolulu
 
-42. What is the capital of Colorado?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+42. What is the capital of Virginia?
+    a. Annapolis
+    b. Albany
+    c. Richmond
+    d. Lincoln
 
-43. What is the capital of Kentucky?
+43. What is the capital of North Carolina?
     a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+    b. Atlanta
+    c. Raleigh
+    d. Salem
 
-44. What is the capital of New Jersey?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+44. What is the capital of Tennessee?
+    a. Nashville
+    b. Helena
+    c. Juneau
+    d. Lincoln
 
-45. What is the capital of North Dakota?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+45. What is the capital of Michigan?
+    a. Pierre
+    b. Nashville
+    c. Hartford
+    d. Lansing
 
-46. What is the capital of South Carolina?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+46. What is the capital of Maine?
+    a. Augusta
+    b. Hartford
+    c. Boston
+    d. Baton Rouge
 
-47. What is the capital of New Mexico?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+47. What is the capital of Wisconsin?
+    a. Honolulu
+    b. Montgomery
+    c. Madison
+    d. Lansing
 
-48. What is the capital of Utah?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+48. What is the capital of Vermont?
+    a. Frankfort
+    b. Montpelier
+    c. Charleston
+    d. Richmond
 
-49. What is the capital of Iowa?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+49. What is the capital of Pennsylvania?
+    a. Harrisburg
+    b. Trenton
+    c. Pierre
+    d. Richmond
 
-50. What is the capital of Michigan?
-    a. Lansing
-    b. Frankfort
-    c. Salt Lake City
-    d. Madison
+50. What is the capital of West Virginia?
+    a. Saint Paul
+    b. Carson City
+    c. Charleston
+    d. Jackson
 

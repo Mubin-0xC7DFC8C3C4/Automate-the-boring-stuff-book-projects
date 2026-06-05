@@ -8,303 +8,303 @@ Section:
 
                     State Capitals Quiz (Form 16)
 
-1. What is the capital of Wyoming?
-    a. Santa Fe
+1. What is the capital of New Jersey?
+    a. Sacramento
+    b. Little Rock
+    c. Trenton
+    d. Providence
+
+2. What is the capital of West Virginia?
+    a. Montgomery
+    b. Salt Lake City
+    c. Charleston
+    d. Oklahoma City
+
+3. What is the capital of Maine?
+    a. Juneau
+    b. Augusta
+    c. Phoenix
+    d. Albany
+
+4. What is the capital of Montana?
+    a. Lansing
+    b. Hartford
+    c. Helena
+    d. Springfield
+
+5. What is the capital of New York?
+    a. Albany
+    b. Richmond
+    c. Little Rock
+    d. Providence
+
+6. What is the capital of Florida?
+    a. Boston
     b. Concord
+    c. Albany
+    d. Tallahassee
+
+7. What is the capital of Wyoming?
+    a. Cheyenne
+    b. Frankfort
+    c. Honolulu
+    d. Juneau
+
+8. What is the capital of Alaska?
+    a. Juneau
+    b. Harrisburg
     c. Nashville
+    d. Phoenix
+
+9. What is the capital of Alabama?
+    a. Montgomery
+    b. Cheyenne
+    c. Charleston
+    d. Augusta
+
+10. What is the capital of Utah?
+    a. Trenton
+    b. Harrisburg
+    c. Salt Lake City
+    d. Tallahassee
+
+11. What is the capital of Colorado?
+    a. Denver
+    b. Boston
+    c. Saint Paul
+    d. Tallahassee
+
+12. What is the capital of Texas?
+    a. Columbia
+    b. Austin
+    c. Pierre
+    d. Jefferson City
+
+13. What is the capital of Illinois?
+    a. Springfield
+    b. Madison
+    c. Olympia
+    d. Bismarck
+
+14. What is the capital of Nebraska?
+    a. Lincoln
+    b. Pierre
+    c. Santa Fe
+    d. Trenton
+
+15. What is the capital of Ohio?
+    a. Montgomery
+    b. Trenton
+    c. Jackson
+    d. Columbus
+
+16. What is the capital of Tennessee?
+    a. Cheyenne
+    b. Little Rock
+    c. Montpelier
+    d. Nashville
+
+17. What is the capital of Maryland?
+    a. Saint Paul
+    b. Olympia
+    c. Providence
+    d. Annapolis
+
+18. What is the capital of Michigan?
+    a. Oklahoma City
+    b. Lansing
+    c. Atlanta
+    d. Nashville
+
+19. What is the capital of Vermont?
+    a. Albany
+    b. Montpelier
+    c. Pierre
+    d. Oklahoma City
+
+20. What is the capital of Kansas?
+    a. Carson City
+    b. Santa Fe
+    c. Topeka
+    d. Salt Lake City
+
+21. What is the capital of Oregon?
+    a. Salem
+    b. Austin
+    c. Albany
+    d. Charleston
+
+22. What is the capital of California?
+    a. Santa Fe
+    b. Columbia
+    c. Juneau
+    d. Sacramento
+
+23. What is the capital of Connecticut?
+    a. Hartford
+    b. Lansing
+    c. Denver
+    d. Jackson
+
+24. What is the capital of Georgia?
+    a. Nashville
+    b. Sacramento
+    c. Atlanta
+    d. Olympia
+
+25. What is the capital of New Hampshire?
+    a. Pierre
+    b. Concord
+    c. Atlanta
+    d. Cheyenne
+
+26. What is the capital of Wisconsin?
+    a. Annapolis
+    b. Madison
+    c. Dover
     d. Montgomery
 
-2. What is the capital of Maine?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+27. What is the capital of North Carolina?
+    a. Raleigh
+    b. Tallahassee
+    c. Springfield
+    d. Sacramento
 
-3. What is the capital of New Mexico?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+28. What is the capital of Pennsylvania?
+    a. Bismarck
+    b. Carson City
+    c. Oklahoma City
+    d. Harrisburg
 
-4. What is the capital of Maryland?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+29. What is the capital of Arizona?
+    a. Albany
+    b. Phoenix
+    c. Indianapolis
+    d. Annapolis
 
-5. What is the capital of Iowa?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+30. What is the capital of North Dakota?
+    a. Juneau
+    b. Bismarck
+    c. Richmond
+    d. Trenton
 
-6. What is the capital of Connecticut?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+31. What is the capital of Idaho?
+    a. Des Moines
+    b. Montgomery
+    c. Albany
+    d. Boise
 
-7. What is the capital of Colorado?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+32. What is the capital of Delaware?
+    a. Augusta
+    b. Cheyenne
+    c. Dover
+    d. Oklahoma City
 
-8. What is the capital of North Carolina?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+33. What is the capital of Hawaii?
+    a. Jefferson City
+    b. Honolulu
+    c. Denver
+    d. Providence
 
-9. What is the capital of South Carolina?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+34. What is the capital of Louisiana?
+    a. Atlanta
+    b. Columbia
+    c. Montgomery
+    d. Baton Rouge
 
-10. What is the capital of Pennsylvania?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+35. What is the capital of Indiana?
+    a. Salt Lake City
+    b. Indianapolis
+    c. Little Rock
+    d. Cheyenne
 
-11. What is the capital of Hawaii?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+36. What is the capital of Washington?
+    a. Cheyenne
+    b. Boise
+    c. Lansing
+    d. Olympia
 
-12. What is the capital of South Dakota?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+37. What is the capital of Arkansas?
+    a. Jefferson City
+    b. Richmond
+    c. Concord
+    d. Little Rock
 
-13. What is the capital of Missouri?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+38. What is the capital of Oklahoma?
+    a. Sacramento
+    b. Carson City
+    c. Oklahoma City
+    d. Des Moines
 
-14. What is the capital of Oregon?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+39. What is the capital of Nevada?
+    a. Baton Rouge
+    b. Boise
+    c. Carson City
+    d. Lansing
 
-15. What is the capital of Arizona?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+40. What is the capital of Iowa?
+    a. Lansing
+    b. Des Moines
+    c. Carson City
+    d. Helena
 
-16. What is the capital of Delaware?
-    a. Santa Fe
+41. What is the capital of South Carolina?
+    a. Columbia
     b. Concord
-    c. Nashville
-    d. Montgomery
+    c. Austin
+    d. Nashville
 
-17. What is the capital of Kansas?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+42. What is the capital of Kentucky?
+    a. Atlanta
+    b. Frankfort
+    c. Augusta
+    d. Lansing
 
-18. What is the capital of Alabama?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+43. What is the capital of New Mexico?
+    a. Trenton
+    b. Harrisburg
+    c. Little Rock
+    d. Santa Fe
 
-19. What is the capital of North Dakota?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+44. What is the capital of Missouri?
+    a. Columbia
+    b. Jefferson City
+    c. Santa Fe
+    d. Nashville
 
-20. What is the capital of Georgia?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+45. What is the capital of Mississippi?
+    a. Jackson
+    b. Denver
+    c. Frankfort
+    d. Nashville
 
-21. What is the capital of Arkansas?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+46. What is the capital of Rhode Island?
+    a. Denver
+    b. Providence
+    c. Indianapolis
+    d. Madison
 
-22. What is the capital of Vermont?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+47. What is the capital of Virginia?
+    a. Topeka
+    b. Helena
+    c. Richmond
+    d. Atlanta
 
-23. What is the capital of Ohio?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+48. What is the capital of Massachusetts?
+    a. Boston
+    b. Charleston
+    c. Austin
+    d. Nashville
 
-24. What is the capital of California?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+49. What is the capital of Minnesota?
+    a. Saint Paul
+    b. Helena
+    c. Juneau
+    d. Springfield
 
-25. What is the capital of New Jersey?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-26. What is the capital of Illinois?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-27. What is the capital of New York?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-28. What is the capital of Utah?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-29. What is the capital of Wisconsin?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-30. What is the capital of Massachusetts?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-31. What is the capital of Virginia?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-32. What is the capital of Rhode Island?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-33. What is the capital of Louisiana?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-34. What is the capital of New Hampshire?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-35. What is the capital of West Virginia?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-36. What is the capital of Oklahoma?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-37. What is the capital of Alaska?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-38. What is the capital of Florida?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-39. What is the capital of Texas?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-40. What is the capital of Nebraska?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-41. What is the capital of Minnesota?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-42. What is the capital of Indiana?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-43. What is the capital of Montana?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-44. What is the capital of Nevada?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-45. What is the capital of Idaho?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-46. What is the capital of Kentucky?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-47. What is the capital of Michigan?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-48. What is the capital of Mississippi?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-49. What is the capital of Washington?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
-
-50. What is the capital of Tennessee?
-    a. Santa Fe
-    b. Concord
-    c. Nashville
-    d. Montgomery
+50. What is the capital of South Dakota?
+    a. Annapolis
+    b. Lansing
+    c. Sacramento
+    d. Pierre
 

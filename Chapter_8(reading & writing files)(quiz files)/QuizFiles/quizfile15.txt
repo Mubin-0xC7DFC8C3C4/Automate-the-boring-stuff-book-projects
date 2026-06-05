@@ -8,303 +8,303 @@ Section:
 
                     State Capitals Quiz (Form 15)
 
-1. What is the capital of Oklahoma?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+1. What is the capital of Vermont?
+    a. Sacramento
+    b. Madison
+    c. Montpelier
+    d. Phoenix
 
-2. What is the capital of Georgia?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+2. What is the capital of Iowa?
+    a. Jefferson City
+    b. Pierre
+    c. Des Moines
+    d. Oklahoma City
 
-3. What is the capital of Louisiana?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+3. What is the capital of Kansas?
+    a. Des Moines
+    b. Topeka
+    c. Little Rock
+    d. Providence
 
-4. What is the capital of South Dakota?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+4. What is the capital of Pennsylvania?
+    a. Oklahoma City
+    b. Albany
+    c. Little Rock
+    d. Harrisburg
 
-5. What is the capital of Maine?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+5. What is the capital of Florida?
+    a. Tallahassee
+    b. Annapolis
+    c. Raleigh
+    d. Salt Lake City
 
-6. What is the capital of Vermont?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+6. What is the capital of Hawaii?
+    a. Phoenix
+    b. Honolulu
+    c. Indianapolis
+    d. Austin
 
-7. What is the capital of Utah?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+7. What is the capital of Mississippi?
+    a. Jackson
+    b. Columbia
+    c. Raleigh
+    d. Frankfort
 
-8. What is the capital of Tennessee?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+8. What is the capital of Illinois?
+    a. Little Rock
+    b. Augusta
+    c. Phoenix
+    d. Springfield
 
-9. What is the capital of Colorado?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+9. What is the capital of Montana?
+    a. Bismarck
+    b. Madison
+    c. Boise
+    d. Helena
 
-10. What is the capital of Kentucky?
-    a. Santa Fe
+10. What is the capital of Delaware?
+    a. Sacramento
     b. Lansing
-    c. Salem
-    d. Cheyenne
+    c. Baton Rouge
+    d. Dover
 
-11. What is the capital of Kansas?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+11. What is the capital of South Dakota?
+    a. Baton Rouge
+    b. Saint Paul
+    c. Lansing
+    d. Pierre
 
-12. What is the capital of Minnesota?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+12. What is the capital of Nebraska?
+    a. Frankfort
+    b. Madison
+    c. Montgomery
+    d. Lincoln
 
-13. What is the capital of New Hampshire?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+13. What is the capital of South Carolina?
+    a. Jefferson City
+    b. Columbia
+    c. Atlanta
+    d. Helena
 
-14. What is the capital of Massachusetts?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+14. What is the capital of Wisconsin?
+    a. Madison
+    b. Tallahassee
+    c. Columbia
+    d. Annapolis
 
-15. What is the capital of Arkansas?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+15. What is the capital of Ohio?
+    a. Topeka
+    b. Albany
+    c. Columbus
+    d. Richmond
 
-16. What is the capital of Alabama?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+16. What is the capital of North Dakota?
+    a. Boise
+    b. Lincoln
+    c. Bismarck
+    d. Nashville
 
-17. What is the capital of Ohio?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+17. What is the capital of Massachusetts?
+    a. Richmond
+    b. Baton Rouge
+    c. Boston
+    d. Bismarck
 
-18. What is the capital of Illinois?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+18. What is the capital of California?
+    a. Sacramento
+    b. Honolulu
+    c. Nashville
+    d. Trenton
 
-19. What is the capital of West Virginia?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+19. What is the capital of Colorado?
+    a. Denver
+    b. Columbia
+    c. Topeka
+    d. Bismarck
 
-20. What is the capital of Alaska?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+20. What is the capital of Arkansas?
+    a. Indianapolis
+    b. Augusta
+    c. Albany
+    d. Little Rock
 
-21. What is the capital of Pennsylvania?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+21. What is the capital of New Mexico?
+    a. Olympia
+    b. Montgomery
+    c. Santa Fe
+    d. Tallahassee
 
-22. What is the capital of Florida?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+22. What is the capital of Oregon?
+    a. Carson City
+    b. Salem
+    c. Oklahoma City
+    d. Little Rock
 
-23. What is the capital of Missouri?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+23. What is the capital of Rhode Island?
+    a. Raleigh
+    b. Providence
+    c. Harrisburg
+    d. Saint Paul
 
-24. What is the capital of Virginia?
+24. What is the capital of Maine?
     a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+    b. Montgomery
+    c. Little Rock
+    d. Augusta
 
-25. What is the capital of Wyoming?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+25. What is the capital of Maryland?
+    a. Albany
+    b. Frankfort
+    c. Annapolis
+    d. Montpelier
 
-26. What is the capital of South Carolina?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+26. What is the capital of Wyoming?
+    a. Topeka
+    b. Annapolis
+    c. Cheyenne
+    d. Montgomery
 
-27. What is the capital of New Jersey?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+27. What is the capital of Arizona?
+    a. Albany
+    b. Jefferson City
+    c. Phoenix
+    d. Frankfort
 
-28. What is the capital of North Carolina?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+28. What is the capital of New York?
+    a. Annapolis
+    b. Albany
+    c. Santa Fe
+    d. Atlanta
 
-29. What is the capital of Montana?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+29. What is the capital of Idaho?
+    a. Richmond
+    b. Phoenix
+    c. Boise
+    d. Helena
 
 30. What is the capital of Michigan?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
+    a. Lansing
+    b. Columbia
+    c. Concord
+    d. Springfield
+
+31. What is the capital of New Jersey?
+    a. Helena
+    b. Springfield
+    c. Montgomery
+    d. Trenton
+
+32. What is the capital of Nevada?
+    a. Springfield
+    b. Carson City
+    c. Honolulu
     d. Cheyenne
 
-31. What is the capital of Washington?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+33. What is the capital of Washington?
+    a. Olympia
+    b. Little Rock
+    c. Topeka
+    d. Jackson
 
-32. What is the capital of Indiana?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+34. What is the capital of West Virginia?
+    a. Charleston
+    b. Salem
+    c. Lansing
+    d. Helena
 
-33. What is the capital of New York?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+35. What is the capital of Utah?
+    a. Albany
+    b. Atlanta
+    c. Little Rock
+    d. Salt Lake City
 
-34. What is the capital of Idaho?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+36. What is the capital of Connecticut?
+    a. Bismarck
+    b. Hartford
+    c. Pierre
+    d. Oklahoma City
 
-35. What is the capital of Maryland?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+37. What is the capital of Tennessee?
+    a. Carson City
+    b. Pierre
+    c. Boise
+    d. Nashville
 
-36. What is the capital of Nevada?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+38. What is the capital of Missouri?
+    a. Jefferson City
+    b. Trenton
+    c. Boston
+    d. Boise
 
-37. What is the capital of Connecticut?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+39. What is the capital of Georgia?
+    a. Saint Paul
+    b. Atlanta
+    c. Concord
+    d. Denver
 
-38. What is the capital of Delaware?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+40. What is the capital of New Hampshire?
+    a. Concord
+    b. Charleston
+    c. Annapolis
+    d. Oklahoma City
 
-39. What is the capital of Nebraska?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+41. What is the capital of Virginia?
+    a. Richmond
+    b. Montpelier
+    c. Santa Fe
+    d. Baton Rouge
 
-40. What is the capital of North Dakota?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+42. What is the capital of Minnesota?
+    a. Lansing
+    b. Madison
+    c. Providence
+    d. Saint Paul
 
-41. What is the capital of Hawaii?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+43. What is the capital of Alaska?
+    a. Juneau
+    b. Providence
+    c. Columbus
+    d. Baton Rouge
 
-42. What is the capital of Mississippi?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+44. What is the capital of North Carolina?
+    a. Annapolis
+    b. Oklahoma City
+    c. Honolulu
+    d. Raleigh
 
-43. What is the capital of Iowa?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+45. What is the capital of Texas?
+    a. Springfield
+    b. Boise
+    c. Dover
+    d. Austin
 
-44. What is the capital of Rhode Island?
-    a. Santa Fe
-    b. Lansing
+46. What is the capital of Louisiana?
+    a. Baton Rouge
+    b. Santa Fe
     c. Salem
-    d. Cheyenne
+    d. Salt Lake City
 
-45. What is the capital of Oregon?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+47. What is the capital of Kentucky?
+    a. Concord
+    b. Frankfort
+    c. Little Rock
+    d. Bismarck
 
-46. What is the capital of California?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+48. What is the capital of Oklahoma?
+    a. Boston
+    b. Hartford
+    c. Oklahoma City
+    d. Lincoln
 
-47. What is the capital of Wisconsin?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+49. What is the capital of Alabama?
+    a. Montgomery
+    b. Phoenix
+    c. Albany
+    d. Austin
 
-48. What is the capital of Texas?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
-
-49. What is the capital of Arizona?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
-
-50. What is the capital of New Mexico?
-    a. Santa Fe
-    b. Lansing
-    c. Salem
-    d. Cheyenne
+50. What is the capital of Indiana?
+    a. Austin
+    b. Harrisburg
+    c. Des Moines
+    d. Indianapolis
 

@@ -22,8 +22,6 @@ for quizNumber in range(35):
         wrongAns = random.sample(wrongAns, 3)
         ansOptions = wrongAns + [correctAns]
         random.shuffle(ansOptions)
-
-    for questionNumber in range(50):
         quizFile.write('%s. What is the capital of %s?\n' % (questionNumber + 1, states[questionNumber]))
         for i in range(4):
             quizFile.write('    %s. %s\n' % ('abcd'[i], ansOptions[i]))

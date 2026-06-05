@@ -8,303 +8,303 @@ Section:
 
                     State Capitals Quiz (Form 35)
 
-1. What is the capital of California?
-    a. Dover
-    b. Boston
-    c. Santa Fe
+1. What is the capital of Maryland?
+    a. Columbia
+    b. Albany
+    c. Des Moines
+    d. Annapolis
+
+2. What is the capital of Oklahoma?
+    a. Columbus
+    b. Albany
+    c. Oklahoma City
+    d. Helena
+
+3. What is the capital of Kansas?
+    a. Annapolis
+    b. Topeka
+    c. Little Rock
+    d. Salem
+
+4. What is the capital of Hawaii?
+    a. Honolulu
+    b. Tallahassee
+    c. Denver
+    d. Lansing
+
+5. What is the capital of Minnesota?
+    a. Pierre
+    b. Salem
+    c. Albany
+    d. Saint Paul
+
+6. What is the capital of Illinois?
+    a. Springfield
+    b. Columbia
+    c. Phoenix
+    d. Lincoln
+
+7. What is the capital of New York?
+    a. Concord
+    b. Albany
+    c. Columbus
+    d. Frankfort
+
+8. What is the capital of Idaho?
+    a. Boise
+    b. Austin
+    c. Tallahassee
+    d. Lincoln
+
+9. What is the capital of Alabama?
+    a. Honolulu
+    b. Montgomery
+    c. Jefferson City
+    d. Frankfort
+
+10. What is the capital of Washington?
+    a. Boise
+    b. Olympia
+    c. Juneau
+    d. Des Moines
+
+11. What is the capital of Wisconsin?
+    a. Madison
+    b. Columbia
+    c. Salem
+    d. Boston
+
+12. What is the capital of Arizona?
+    a. Cheyenne
+    b. Phoenix
+    c. Boston
+    d. Springfield
+
+13. What is the capital of Massachusetts?
+    a. Boston
+    b. Baton Rouge
+    c. Dover
+    d. Phoenix
+
+14. What is the capital of Iowa?
+    a. Santa Fe
+    b. Atlanta
+    c. Bismarck
+    d. Des Moines
+
+15. What is the capital of South Dakota?
+    a. Lincoln
+    b. Phoenix
+    c. Pierre
+    d. Columbus
+
+16. What is the capital of Virginia?
+    a. Topeka
+    b. Oklahoma City
+    c. Harrisburg
+    d. Richmond
+
+17. What is the capital of Vermont?
+    a. Montpelier
+    b. Boise
+    c. Little Rock
+    d. Santa Fe
+
+18. What is the capital of New Jersey?
+    a. Denver
+    b. Trenton
+    c. Springfield
+    d. Boston
+
+19. What is the capital of Florida?
+    a. Columbus
+    b. Bismarck
+    c. Tallahassee
+    d. Springfield
+
+20. What is the capital of Montana?
+    a. Hartford
+    b. Helena
+    c. Columbus
+    d. Little Rock
+
+21. What is the capital of Connecticut?
+    a. Sacramento
+    b. Hartford
+    c. Bismarck
+    d. Des Moines
+
+22. What is the capital of Oregon?
+    a. Austin
+    b. Frankfort
+    c. Columbus
+    d. Salem
+
+23. What is the capital of California?
+    a. Saint Paul
+    b. Helena
+    c. Topeka
+    d. Sacramento
+
+24. What is the capital of Delaware?
+    a. Boise
+    b. Dover
+    c. Montpelier
+    d. Frankfort
+
+25. What is the capital of Arkansas?
+    a. Lincoln
+    b. Hartford
+    c. Oklahoma City
+    d. Little Rock
+
+26. What is the capital of West Virginia?
+    a. Charleston
+    b. Lansing
+    c. Austin
+    d. Honolulu
+
+27. What is the capital of Ohio?
+    a. Columbus
+    b. Hartford
+    c. Boston
+    d. Concord
+
+28. What is the capital of Missouri?
+    a. Cheyenne
+    b. Juneau
+    c. Jefferson City
+    d. Sacramento
+
+29. What is the capital of Alaska?
+    a. Boise
+    b. Phoenix
+    c. Juneau
     d. Raleigh
 
-2. What is the capital of Pennsylvania?
+30. What is the capital of Utah?
+    a. Salt Lake City
+    b. Springfield
+    c. Annapolis
+    d. Nashville
+
+31. What is the capital of Mississippi?
+    a. Jackson
+    b. Olympia
+    c. Pierre
+    d. Oklahoma City
+
+32. What is the capital of New Mexico?
+    a. Annapolis
+    b. Santa Fe
+    c. Cheyenne
+    d. Little Rock
+
+33. What is the capital of Kentucky?
+    a. Jefferson City
+    b. Frankfort
+    c. Bismarck
+    d. Indianapolis
+
+34. What is the capital of Wyoming?
+    a. Oklahoma City
+    b. Carson City
+    c. Cheyenne
+    d. Richmond
+
+35. What is the capital of New Hampshire?
+    a. Providence
+    b. Oklahoma City
+    c. Cheyenne
+    d. Concord
+
+36. What is the capital of Nebraska?
     a. Dover
-    b. Boston
-    c. Santa Fe
+    b. Bismarck
+    c. Lincoln
+    d. Carson City
+
+37. What is the capital of North Dakota?
+    a. Albany
+    b. Jefferson City
+    c. Phoenix
+    d. Bismarck
+
+38. What is the capital of Georgia?
+    a. Atlanta
+    b. Charleston
+    c. Lincoln
+    d. Pierre
+
+39. What is the capital of Colorado?
+    a. Tallahassee
+    b. Austin
+    c. Des Moines
+    d. Denver
+
+40. What is the capital of Tennessee?
+    a. Juneau
+    b. Nashville
+    c. Topeka
+    d. Columbus
+
+41. What is the capital of Rhode Island?
+    a. Providence
+    b. Pierre
+    c. Jefferson City
+    d. Saint Paul
+
+42. What is the capital of Indiana?
+    a. Saint Paul
+    b. Cheyenne
+    c. Indianapolis
+    d. Hartford
+
+43. What is the capital of Pennsylvania?
+    a. Denver
+    b. Harrisburg
+    c. Springfield
+    d. Topeka
+
+44. What is the capital of South Carolina?
+    a. Columbia
+    b. Dover
+    c. Sacramento
+    d. Providence
+
+45. What is the capital of Louisiana?
+    a. Montpelier
+    b. Baton Rouge
+    c. Little Rock
+    d. Charleston
+
+46. What is the capital of North Carolina?
+    a. Providence
+    b. Hartford
+    c. Honolulu
     d. Raleigh
 
-3. What is the capital of Massachusetts?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
+47. What is the capital of Texas?
+    a. Austin
+    b. Providence
+    c. Harrisburg
+    d. Atlanta
 
-4. What is the capital of Nebraska?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
+48. What is the capital of Michigan?
+    a. Lansing
+    b. Madison
+    c. Olympia
+    d. Trenton
 
-5. What is the capital of Michigan?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
+49. What is the capital of Maine?
+    a. Augusta
+    b. Concord
+    c. Austin
+    d. Lincoln
 
-6. What is the capital of Minnesota?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-7. What is the capital of Nevada?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-8. What is the capital of South Carolina?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-9. What is the capital of Georgia?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-10. What is the capital of Virginia?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-11. What is the capital of Iowa?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-12. What is the capital of Washington?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-13. What is the capital of Wisconsin?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-14. What is the capital of Oregon?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-15. What is the capital of Tennessee?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-16. What is the capital of Idaho?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-17. What is the capital of New Jersey?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-18. What is the capital of Arkansas?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-19. What is the capital of Delaware?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-20. What is the capital of Texas?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-21. What is the capital of North Carolina?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-22. What is the capital of South Dakota?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-23. What is the capital of Rhode Island?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-24. What is the capital of Utah?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-25. What is the capital of Illinois?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-26. What is the capital of Kentucky?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-27. What is the capital of Maryland?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-28. What is the capital of Alabama?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-29. What is the capital of Missouri?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-30. What is the capital of Oklahoma?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-31. What is the capital of Colorado?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-32. What is the capital of Vermont?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-33. What is the capital of Ohio?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-34. What is the capital of Florida?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-35. What is the capital of Connecticut?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-36. What is the capital of North Dakota?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-37. What is the capital of Kansas?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-38. What is the capital of Hawaii?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-39. What is the capital of Indiana?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-40. What is the capital of Arizona?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-41. What is the capital of Alaska?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-42. What is the capital of Maine?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-43. What is the capital of Wyoming?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-44. What is the capital of New York?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-45. What is the capital of Montana?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-46. What is the capital of Louisiana?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-47. What is the capital of West Virginia?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-48. What is the capital of Mississippi?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-49. What is the capital of New Hampshire?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
-
-50. What is the capital of New Mexico?
-    a. Dover
-    b. Boston
-    c. Santa Fe
-    d. Raleigh
+50. What is the capital of Nevada?
+    a. Carson City
+    b. Montgomery
+    c. Jefferson City
+    d. Madison
 

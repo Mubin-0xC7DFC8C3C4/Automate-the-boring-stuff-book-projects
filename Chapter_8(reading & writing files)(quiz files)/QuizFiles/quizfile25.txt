@@ -8,303 +8,303 @@ Section:
 
                     State Capitals Quiz (Form 25)
 
-1. What is the capital of Indiana?
-    a. Pierre
-    b. Richmond
+1. What is the capital of Alabama?
+    a. Topeka
+    b. Salem
+    c. Springfield
+    d. Montgomery
+
+2. What is the capital of Ohio?
+    a. Sacramento
+    b. Columbus
+    c. Concord
+    d. Juneau
+
+3. What is the capital of Rhode Island?
+    a. Sacramento
+    b. Oklahoma City
+    c. Dover
+    d. Providence
+
+4. What is the capital of Nebraska?
+    a. Austin
+    b. Columbia
+    c. Lincoln
+    d. Hartford
+
+5. What is the capital of Georgia?
+    a. Atlanta
+    b. Austin
+    c. Boston
+    d. Columbia
+
+6. What is the capital of Missouri?
+    a. Harrisburg
+    b. Juneau
+    c. Albany
+    d. Jefferson City
+
+7. What is the capital of North Carolina?
+    a. Honolulu
+    b. Lincoln
     c. Raleigh
+    d. Providence
+
+8. What is the capital of West Virginia?
+    a. Richmond
+    b. Nashville
+    c. Juneau
+    d. Charleston
+
+9. What is the capital of Maine?
+    a. Denver
+    b. Concord
+    c. Boise
+    d. Augusta
+
+10. What is the capital of Alaska?
+    a. Concord
+    b. Salt Lake City
+    c. Denver
+    d. Juneau
+
+11. What is the capital of Florida?
+    a. Oklahoma City
+    b. Montgomery
+    c. Raleigh
+    d. Tallahassee
+
+12. What is the capital of New Hampshire?
+    a. Annapolis
+    b. Concord
+    c. Tallahassee
+    d. Oklahoma City
+
+13. What is the capital of Massachusetts?
+    a. Phoenix
+    b. Boston
+    c. Des Moines
+    d. Helena
+
+14. What is the capital of Kansas?
+    a. Hartford
+    b. Madison
+    c. Raleigh
+    d. Topeka
+
+15. What is the capital of Nevada?
+    a. Jackson
+    b. Carson City
+    c. Dover
+    d. Honolulu
+
+16. What is the capital of Tennessee?
+    a. Nashville
+    b. Columbus
+    c. Hartford
+    d. Little Rock
+
+17. What is the capital of Pennsylvania?
+    a. Juneau
+    b. Harrisburg
+    c. Sacramento
+    d. Salem
+
+18. What is the capital of Minnesota?
+    a. Jackson
+    b. Bismarck
+    c. Dover
+    d. Saint Paul
+
+19. What is the capital of Arizona?
+    a. Oklahoma City
+    b. Harrisburg
+    c. Lincoln
+    d. Phoenix
+
+20. What is the capital of Oklahoma?
+    a. Topeka
+    b. Des Moines
+    c. Denver
+    d. Oklahoma City
+
+21. What is the capital of Mississippi?
+    a. Jackson
+    b. Concord
+    c. Trenton
+    d. Augusta
+
+22. What is the capital of North Dakota?
+    a. Columbus
+    b. Bismarck
+    c. Springfield
+    d. Dover
+
+23. What is the capital of Connecticut?
+    a. Richmond
+    b. Des Moines
+    c. Hartford
+    d. Madison
+
+24. What is the capital of Hawaii?
+    a. Pierre
+    b. Baton Rouge
+    c. Little Rock
+    d. Honolulu
+
+25. What is the capital of Maryland?
+    a. Concord
+    b. Richmond
+    c. Annapolis
+    d. Salt Lake City
+
+26. What is the capital of Virginia?
+    a. Richmond
+    b. Harrisburg
+    c. Baton Rouge
+    d. Salem
+
+27. What is the capital of Iowa?
+    a. Little Rock
+    b. Des Moines
+    c. Raleigh
+    d. Lansing
+
+28. What is the capital of Arkansas?
+    a. Tallahassee
+    b. Santa Fe
+    c. Honolulu
+    d. Little Rock
+
+29. What is the capital of Utah?
+    a. Harrisburg
+    b. Albany
+    c. Olympia
+    d. Salt Lake City
+
+30. What is the capital of Delaware?
+    a. Concord
+    b. Dover
+    c. Baton Rouge
+    d. Harrisburg
+
+31. What is the capital of Oregon?
+    a. Montgomery
+    b. Salem
+    c. Helena
+    d. Honolulu
+
+32. What is the capital of New Jersey?
+    a. Montgomery
+    b. Baton Rouge
+    c. Dover
+    d. Trenton
+
+33. What is the capital of Indiana?
+    a. Indianapolis
+    b. Montgomery
+    c. Montpelier
+    d. Austin
+
+34. What is the capital of Wyoming?
+    a. Boise
+    b. Santa Fe
+    c. Frankfort
     d. Cheyenne
 
-2. What is the capital of Michigan?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+35. What is the capital of New Mexico?
+    a. Augusta
+    b. Raleigh
+    c. Santa Fe
+    d. Trenton
 
-3. What is the capital of New Mexico?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+36. What is the capital of South Carolina?
+    a. Augusta
+    b. Columbia
+    c. Saint Paul
+    d. Harrisburg
 
-4. What is the capital of California?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+37. What is the capital of South Dakota?
+    a. Nashville
+    b. Pierre
+    c. Charleston
+    d. Honolulu
 
-5. What is the capital of New York?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+38. What is the capital of Kentucky?
+    a. Oklahoma City
+    b. Frankfort
+    c. Augusta
+    d. Providence
 
-6. What is the capital of Alabama?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+39. What is the capital of Montana?
+    a. Boston
+    b. Helena
+    c. Tallahassee
+    d. Madison
 
-7. What is the capital of Hawaii?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+40. What is the capital of Texas?
+    a. Boston
+    b. Carson City
+    c. Austin
+    d. Indianapolis
 
-8. What is the capital of Missouri?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+41. What is the capital of Colorado?
+    a. Denver
+    b. Baton Rouge
+    c. Augusta
+    d. Harrisburg
 
-9. What is the capital of Delaware?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+42. What is the capital of Wisconsin?
+    a. Boston
+    b. Nashville
+    c. Madison
+    d. Jefferson City
 
-10. What is the capital of Montana?
-    a. Pierre
-    b. Richmond
+43. What is the capital of Vermont?
+    a. Atlanta
+    b. Montpelier
     c. Raleigh
-    d. Cheyenne
+    d. Albany
 
-11. What is the capital of Ohio?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+44. What is the capital of Louisiana?
+    a. Helena
+    b. Baton Rouge
+    c. Hartford
+    d. Denver
 
-12. What is the capital of Maine?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+45. What is the capital of Michigan?
+    a. Denver
+    b. Bismarck
+    c. Phoenix
+    d. Lansing
 
-13. What is the capital of Oregon?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+46. What is the capital of California?
+    a. Montpelier
+    b. Boise
+    c. Jefferson City
+    d. Sacramento
 
-14. What is the capital of New Hampshire?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+47. What is the capital of Idaho?
+    a. Des Moines
+    b. Harrisburg
+    c. Cheyenne
+    d. Boise
 
-15. What is the capital of Oklahoma?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+48. What is the capital of Illinois?
+    a. Albany
+    b. Salt Lake City
+    c. Springfield
+    d. Richmond
 
-16. What is the capital of Connecticut?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+49. What is the capital of Washington?
+    a. Frankfort
+    b. Indianapolis
+    c. Olympia
+    d. Charleston
 
-17. What is the capital of South Carolina?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-18. What is the capital of Pennsylvania?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-19. What is the capital of Kentucky?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-20. What is the capital of North Dakota?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-21. What is the capital of West Virginia?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-22. What is the capital of Massachusetts?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-23. What is the capital of Vermont?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-24. What is the capital of Georgia?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-25. What is the capital of Kansas?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-26. What is the capital of Texas?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-27. What is the capital of Minnesota?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-28. What is the capital of Nevada?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-29. What is the capital of Colorado?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-30. What is the capital of Nebraska?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-31. What is the capital of Tennessee?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-32. What is the capital of Mississippi?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-33. What is the capital of Maryland?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-34. What is the capital of Idaho?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-35. What is the capital of North Carolina?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-36. What is the capital of Iowa?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-37. What is the capital of Alaska?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-38. What is the capital of Rhode Island?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-39. What is the capital of Virginia?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-40. What is the capital of Washington?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-41. What is the capital of Utah?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-42. What is the capital of Louisiana?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-43. What is the capital of New Jersey?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-44. What is the capital of Arizona?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-45. What is the capital of Arkansas?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-46. What is the capital of Wyoming?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-47. What is the capital of Florida?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-48. What is the capital of Wisconsin?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-49. What is the capital of Illinois?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
-
-50. What is the capital of South Dakota?
-    a. Pierre
-    b. Richmond
-    c. Raleigh
-    d. Cheyenne
+50. What is the capital of New York?
+    a. Albany
+    b. Tallahassee
+    c. Frankfort
+    d. Helena
 
