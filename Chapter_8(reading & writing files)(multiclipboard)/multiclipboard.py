@@ -4,6 +4,8 @@ import pyperclip, shelve, sys
 
 mcbshelve = shelve.open('mcb')
 
+if len(sys.argv) == 3 and sys.argv[1].lower() == 'delete':
+    del mcbshelve[sys.argv[2]]
 if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':
     mcbshelve[sys.argv[2]] = pyperclip.paste()
 elif len(sys.argv) == 2:
@@ -11,5 +13,7 @@ elif len(sys.argv) == 2:
         pyperclip.copy(str(list(mcbshelve.keys())))
     elif sys.argv[1] in mcbshelve:
         pyperclip.copy(mcbshelve[sys.argv[1]])
+    elif sys.argv[1].lower() == 'delete':
+        mcbshelve.clear()
 
 mcbshelve.close()
