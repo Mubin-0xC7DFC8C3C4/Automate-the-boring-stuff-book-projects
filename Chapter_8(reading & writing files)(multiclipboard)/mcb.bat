@@ -1,0 +1,2 @@
+@"C:\Users\HTC\AppData\Local\Programs\Python\Python313\pythonw.exe" "C:\Users\HTC\python_code\Automate the boring stuff book project\Chapter_8(reading & writing files)(multiclipboard)\mcb.pyw" %*
+@pause
